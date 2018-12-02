@@ -1,0 +1,127 @@
+*{
+   margin:0px;
+   padding:0px;
+   list-style-type:none;
+ }
+header,nav,article,section,footer,aside{
+                                        display:block;
+                                       }
+
+.container{
+           width:1000px;
+           margin:0px auto;
+          }
+
+
+.heading{
+         width:100%;
+         background-color:silver;
+         border-left:12px solid grey;
+         padding-bottom:100px;
+        }
+
+.logo{
+      width:250px;
+      height:75spx;
+      float:left;
+      }
+
+.cricket{
+     font-family:Comic Sans MS;
+     color:red;
+     font-size:40px;
+     float:left;
+     padding-top:23px;
+     margin-left:10px;
+    }
+
+.login ul li{
+             float:left;
+             margin:50px 20px 0px 25px ;
+             padding-left:50px;
+            }
+
+#yo{
+    font-style:bold;
+    margin:20px 0px 10px 10px;
+    font-size:30px;
+    border-left:5px solid grey;
+    padding-left:5px;
+    }
+
+.subcontainer{
+              width:600px;
+              background-color:#1d5adf;
+              float:left; 
+             }
+               
+.main{
+      margin:40px 20px;
+      width:500px;
+     }
+
+.ind{   
+     border-radius:20px;
+     float:left;
+     }
+
+#vs{
+    font-style:bold;
+    color:red;
+    font-size:40px;
+    float:left;
+    padding:30px;
+   }
+
+.aus{
+      border-radius:20px; 
+       float:left;
+    }
+  
+.clear{
+       clear:left;
+       width:500px;
+      }
+
+#ia p{
+      float:left;
+      font-style:bold;
+      color:#000304;
+      font-size:40px;
+      padding-right:100px;
+      padding-left:40px;
+     }
+
+.re{
+    clear:left;
+    width:500px;
+    }
+
+#result p{
+          clear:left;
+          font-family:Comic Sans MS;
+          font-size:20px;
+         }
+
+.underline{
+           text-decoration:none;
+          }
+           
+.asid{
+       marque:left;
+       width:390px;
+       float:left;
+       background-color:silver;
+       border-left:10px solid grey;
+      }
+       
+#news{
+      font-size:40px;
+      text-align:center;
+      text-style:bold;     
+     }
+
+#yo1 ul pre li{
+                font-family:Comic Sans MS;
+                font-size:20px;
+               }
